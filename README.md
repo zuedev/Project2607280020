@@ -1,6 +1,8 @@
 # Project2607280020
 
-This is an untitled Unreal Engine project.
+> Unreal Engine Prototyping Project
+
+This is an untitled Unreal Engine project for prototyping and testing purposes. It is only shared for educational purposes and is not intended for production use.
 
 ## Development
 
